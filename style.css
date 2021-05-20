@@ -1,0 +1,15 @@
+body{
+     text-align:center;
+     background-image:linear-gradient(#9042f5 0%,#f54272 100%);
+    background-repeat: no-repeat;
+        font-size:30px;
+}
+img{
+    border-radius:50%;
+        width:100px;
+}
+h3{
+    color: crimson;
+    text-shadow: 2px 2px purple;
+    text-decoration: underline
+}
